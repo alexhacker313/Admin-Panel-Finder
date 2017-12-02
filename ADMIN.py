@@ -201,5 +201,5 @@ for hani in passe :
 
 
 print ("----------------------------------------------------------------------------------------")
-print ("\033[93m     i HOPE I HAVE HELPED YOU ^_^ , TY FOR USE MY SCRIPT -Lamani Hani-")
+print ("\033[93m     i HOPE I HAVE HELPED YOU ^_^ , TY FOR USE MY SCRIPT -Alex HACKER-")
 print ("----------------------------------------------------------------------------------------")
