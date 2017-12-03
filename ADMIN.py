@@ -48,8 +48,8 @@ print('''
 +=========================================+
 |.........ADMIN PANEL FINDER ..........|
 +-----------------------------------------+
-|#Author:     Alex Hacker      |
-|#Contact:facebook.com/sharbel.khouri.3    |
+|#Author:     Alex Hacker                 |
+|#Contact:facebook.com/lebanon.hacker.313 |
 |#Date:          12/02/2017               |
 |#This tool is made for pentesting.       |
 |#Changing the Description of this tool   |
